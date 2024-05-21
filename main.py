@@ -34,8 +34,8 @@ github --> https://github.com/FotoKoyo''')
 
 bot = telebot.TeleBot("TOKEN")
 
-#create/check path fo
-CHAT_ID = "CHATID"r all file
+#create/check path for all file
+CHAT_ID = "CHATID"
 try:
     os.mkdir("C://Windows//Temp//")
 except:
